@@ -2,5 +2,22 @@
   "name": "TESTINU",
   "symbol": "TESTINU",
   "description": "Naw",
+  "sellerFeeBasisPoints": 0,
   "image": "https://raw.githubusercontent.com/SHIBERUGGINU/Test/main/test.gif",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SHIBERUGGINU/Test/main/test.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Your_Creator_Address",
+        "share": 100
+      }
+    ]
+  }
 }
